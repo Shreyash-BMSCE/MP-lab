@@ -1,3 +1,4 @@
+;for counting till 1 to 100
 .model small
 .data
 msg1 db 0dh, 0ah, "1 to 100$"
